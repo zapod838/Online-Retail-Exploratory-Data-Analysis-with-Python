@@ -15,7 +15,10 @@ After conducting the analysis, I discovered following noteworthy observations:
 
 • The line plot representing monthly sales revealed a **substantial increase in sales from August to November**, followed by a drop in December 2011. Additionally, by analyzing sales trends over time, I identified that **November was the busiest month**, and **Thursdays were the busiest days** of the week.
 
-• While one of the top customer IDs shows as 'Unknown' due to replacing null values, we can focus on the other customer IDs to create effective market segmentation. Moreover, knowing the most **valuable items, such as 'DOTCOM POSTAGE', 'REGENCY CAKESTAND 3 TIER', and 'PARTY BUNTING'**, along with the **top-selling countries like 'United Kingdom', 'Netherlands', and 'EIRE'**, allows data-driven decision-making, optimizing operations, and maintaining competitiveness in the market.
+• While one of the top customer IDs shows as 'Unknown' due to replacing null values, we can focus on the other customer IDs to create effective market segmentation. 
+
+• Moreover, knowing the most **valuable items, such as 'DOTCOM POSTAGE', 'REGENCY CAKESTAND 3 TIER', and 'PARTY BUNTING'**, along with the **top-selling countries like 'United Kingdom', 'Netherlands', and 'EIRE'**, allows data-driven decision-making, optimizing operations, and maintaining competitiveness in the market.
+
 • The analysis has provided essential insights into **customer behavior, market trends, and overall business performance**, empowering companies to better serve their customers and achieve sustained success.
 
 
