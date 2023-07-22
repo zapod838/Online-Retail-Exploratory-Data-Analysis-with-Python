@@ -9,9 +9,9 @@ In this project, I delved into the **transactional data of an online retail** st
 
 After conducting the analysis, I discovered following noteworthy observations:
 
-•A considerable portion of the **customerID data is missing** in the dataset. To enhance market segmentation and customer targeting, I recommend addressing this issue. 
+• A considerable portion of the **customerID data is missing** in the dataset. To enhance market segmentation and customer targeting, I recommend addressing this issue. 
 
-•The significant difference in standard deviation indicates that outliers have a significant impact on the overall variability of the data. However, due to the specific context and goals of the analysis, **removing the outliers may not be advisable**, as it could have potential implications on the findings.
+• The significant difference in standard deviation indicates that outliers have a significant impact on the overall variability of the data. However, due to the specific context and goals of the analysis, **removing the outliers may not be advisable**, as it could have potential implications on the findings.
 
 • The line plot representing monthly sales revealed a **substantial increase in sales from August to November**, followed by a drop in December 2011. Additionally, by analyzing sales trends over time, I identified that **November was the busiest month**, and **Thursdays were the busiest days** of the week.
 
