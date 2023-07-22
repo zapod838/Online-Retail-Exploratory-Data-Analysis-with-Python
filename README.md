@@ -2,10 +2,10 @@
 
 ### Summary:
 
-In this project, I delved into the transactional data of an online retail store to gain valuable insights into the store's sales trends, customer behavior, and popular products. My analysis involved conducting exploratory data analysis, where I thoroughly examined the data to identify sales patterns, detect outliers, and explore correlations within the dataset.
+In this project, I delved into the **transactional data of an online retail** store to gain valuable insights into the store's sales trends, customer behavior, and popular products. My analysis involved conducting exploratory data analysis, where I thoroughly examined the data to identify sales patterns, detect outliers, and explore correlations within the dataset.
 
 
-### Solutions
+### Solutions:
 
 After conducting the analysis, I discovered that a considerable portion of the customerID data is missing in the dataset. To enhance market segmentation and customer targeting, I recommend addressing this issue. The significant difference in standard deviation indicates that outliers have a significant impact on the overall variability of the data. However, due to the specific context and goals of the analysis, removing the outliers may not be advisable, as it could have potential implications on the findings.
 
@@ -16,7 +16,7 @@ While one of the top customer IDs shows as 'Unknown' due to replacing null value
 The analysis has provided essential insights into customer behavior, market trends, and overall business performance, empowering companies to better serve their customers and achieve sustained success.
 
 
-### Approach
+### Approach:
 
 I initiated the analysis by cleaning and preprocessing the data, computing the total sell amount, and obtaining a statistical summary of the dataset. To gain insights from the data, I employed data visualization techniques, including heat maps and sales trend analysis over time using Python's pandas library.
 
